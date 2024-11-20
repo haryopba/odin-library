@@ -1,0 +1,13 @@
+.books-container {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 6px;
+    min-width: 180px;
+    min-height: 240px;
+}
